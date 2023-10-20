@@ -3,3 +3,4 @@ azure-storage-blob
 numpy
 tensorflow
 io
+streamlit
