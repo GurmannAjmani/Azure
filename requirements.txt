@@ -1,0 +1,5 @@
+opencv-python-headless
+azure-storage-blob
+numpy
+tensorflow
+io
